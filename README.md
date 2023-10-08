@@ -1,4 +1,5 @@
-### Hi there 👋
+![Main](https://i.ibb.co/BNgb4dg/Black-Modern-3-D-Artist-Twitter-Header.png)
+
 
 <!--
 **LoLFuchs/LoLFuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
