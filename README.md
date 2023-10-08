@@ -1,4 +1,4 @@
-![Main]([https://i.ibb.co/BNgb4dg/Black-Modern-3-D-Artist-Twitter-Header.png](https://i.ibb.co/BNgb4dg/Black-Modern-3-D-Artist-Twitter-Header.png))
+![App Screenshot](https://i.ibb.co/BNgb4dg/Black-Modern-3-D-Artist-Twitter-Header.png)
 
 
 <!--
