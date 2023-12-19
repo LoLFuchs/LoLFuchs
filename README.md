@@ -1,4 +1,4 @@
-![App Screenshot](https://i.ibb.co/BNgb4dg/Black-Modern-3-D-Artist-Twitter-Header.png)
+![Header](./github-header-image.png)
 
 # Having a Break right now, soon back⚡ 
 
